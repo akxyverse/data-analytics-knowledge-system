@@ -78,32 +78,38 @@ A ready-made, freely reusable template for anyone building their own learning sy
 
 ---
 
-## 🗂 The Learning Track
+## 🎓 Curriculum
+
+*Two courses, taken in order — like a real academy track.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 Fundamentals of Data Analytics
+### `DA-101` 🧮 Fundamentals of Data Analytics
 The theoretical foundation — no tools, just the math and stats that make everything else make sense.
 
-**Technologies:** Linear Algebra · Calculus · Discrete Math · Descriptive & Inferential Statistics · Probability
+**Syllabus:** Linear Algebra · Calculus · Discrete Math · Descriptive & Inferential Statistics · Probability
 
 **Learning outcome:** Reason confidently about distributions, variance, and inference before ever touching a dataset.
 
-📂 [Open folder](<./Fundamentals of Data Analytics>) &nbsp;·&nbsp; 📄 [Folder guide](<./Fundamentals of Data Analytics/README.md>)
+**Status:** ⚪ Not yet enrolled
+
+📂 [Open course](<./Fundamentals of Data Analytics>) &nbsp;·&nbsp; 📄 [Syllabus](<./Fundamentals of Data Analytics/README.md>)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Data Analytics Technologies
+### `DA-201` 🛠️ Data Analytics Technologies
 Every core tool used in day-to-day analytics — one home per topic, grouped by category.
 
-**Technologies:** Python · SQL & Databases · Excel · Power BI · Tableau · Looker Studio · APIs · Git/GitHub
+**Syllabus:** Python · SQL & Databases · Excel · Power BI · Tableau · Looker Studio · APIs · Git/GitHub
 
 **Learning outcome:** Move from raw data to a cleaned, queried, visualized, version-controlled analysis.
 
-📂 [Open folder](<./Data Analytics Technologies>) &nbsp;·&nbsp; 📄 [Folder guide](<./Data Analytics Technologies/README.md>)
+**Status:** 🟢 In session — real notes already on file in [Spreadsheets/Excel](<./Data Analytics Technologies/Spreadsheets/Excel>)
+
+📂 [Open course](<./Data Analytics Technologies>) &nbsp;·&nbsp; 📄 [Syllabus](<./Data Analytics Technologies/README.md>)
 
 </td>
 </tr>
