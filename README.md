@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/logo.svg" alt="Repository logo" width="90">
+
+<br><br>
+
 <img src="./assets/banner.svg" alt="Data Analytics Knowledge Management System" width="100%">
 
 <br>
@@ -8,6 +12,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/akxyverse/data-analytics-knowledge-system?color=22d3ee&label=last%20commit)
 ![Repo Size](https://img.shields.io/github/repo-size/akxyverse/data-analytics-knowledge-system?color=0f766e&label=repo%20size)
 ![Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-knowledge-system?style=social)
+![Forks](https://img.shields.io/github/forks/akxyverse/data-analytics-knowledge-system?style=social)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
 ![Folders](https://img.shields.io/badge/folders-194-blue)
 
@@ -182,6 +187,8 @@ flowchart LR
     G --> H["🚀 Projects & Portfolio"]
 ```
 
+<sub>Text equivalent for screen readers and non-rendering viewers: Fundamentals → Programming → Data Handling → Visualization → Data Engineering → Cloud → AI & Automation → Projects & Portfolio.</sub>
+
 This roadmap mirrors the [`01_Learning`](./01_Learning) and [`03_Technologies`](./03_Technologies) folders and evolves as my skills grow.
 
 ## 🧰 Tech Stack & Skills
@@ -290,6 +297,20 @@ This repository is under **active, continuous development**. Rather than fake pr
 
 > Since this system was just established, most sections currently sit at ⚪ **Not Started** — the structure comes first, the content follows. Check back often.
 
+### Progress Tracker
+
+| Category | Status |
+|----------|--------|
+| [`01_Learning`](./01_Learning) | ⚪ Not Started |
+| [`02_Fundamentals`](./02_Fundamentals) | ⚪ Not Started |
+| [`03_Technologies`](./03_Technologies) | ⚪ Not Started |
+| [`04_Projects`](./04_Projects) | ⚪ Not Started |
+| [`05_Datasets`](./05_Datasets) | ⚪ Not Started |
+| [`06_Resources`](./06_Resources) | ⚪ Not Started |
+| [`07_Career`](./07_Career) | ⚪ Not Started |
+| [`08_Content Creation`](./08_Content%20Creation) | ⚪ Not Started |
+| [`09_Certifications`](./09_Certifications) | ⚪ Not Started |
+
 ## 🚀 Featured Projects
 
 > Project folders are scaffolded and ready in [`04_Projects`](./04_Projects) — entries below will be filled in as each project ships.
@@ -366,7 +387,10 @@ This repository is licensed under the **MIT License** — see [`LICENSE`](./LICE
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=akxyverse&repo=data-analytics-knowledge-system&theme=tokyonight&hide_border=true)
+![Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=38bdf8&label=Stars)
+![Forks](https://img.shields.io/github/forks/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=22d3ee&label=Forks)
+![Open Issues](https://img.shields.io/github/issues/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=f59e0b&label=Issues)
+![Repo Size](https://img.shields.io/github/repo-size/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=0f766e&label=Size)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akxyverse&repo=data-analytics-knowledge-system&color=38bdf8&style=flat&label=Repository+Views)
 
