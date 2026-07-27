@@ -1,4 +1,4 @@
-# 🧮 02_Fundamentals
+# 🧮 Fundamentals of Data Analytics
 
 [← Back to main README](../README.md)
 

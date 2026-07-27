@@ -1,4 +1,4 @@
-# 🛠️ 03_Technologies
+# 🛠️ Data Analytics Technologies
 
 [← Back to main README](../README.md)
 

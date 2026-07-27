@@ -31,12 +31,13 @@
 ![Forks](https://img.shields.io/github/forks/akxyverse/data-analytics-knowledge-system?style=social)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
 
-**Core Data Analytics learning notes — fundamentals, Python, SQL, BI tools, and analytics concepts. One repository, one purpose: learning core Data Analytics.**
+**Core Data Analytics learning notes — fundamentals, Python, SQL, BI tools, and analytics concepts. One repository, one purpose: learning core Data Analytics, done properly.**
 
 [About](#-about) &bull;
-[Structure](#-repository-structure) &bull;
+[Folders](#-folders) &bull;
 [Roadmap](#-learning-roadmap) &bull;
 [Tech Stack](#-tech-stack--skills) &bull;
+[Guidebooks](#-recommended-guidebooks) &bull;
 [Ecosystem](#-repository-ecosystem) &bull;
 [Connect](#-connect-with-me)
 
@@ -48,12 +49,14 @@
 
 - [About](#-about)
 - [Repository Ecosystem](#-repository-ecosystem)
+- [Folders](#-folders)
 - [Repository Structure](#-repository-structure)
-- [Folder Navigation](#-folder-navigation)
 - [Learning Roadmap](#-learning-roadmap)
 - [Tech Stack & Skills](#-tech-stack--skills)
+- [Recommended Guidebooks](#-recommended-guidebooks)
 - [Status Legend](#-status-legend)
 - [Repository Rules & Conventions](#-repository-rules--conventions)
+- [What's Next](#-whats-next)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Connect With Me](#-connect-with-me)
@@ -83,6 +86,35 @@ This is one of 8 repositories that make up my public Data Analytics presence on 
 | [`certifications`](https://github.com/akxyverse/certifications) | 🏅 Certifications in progress, completed, and certificates |
 | [`ai-automation`](https://github.com/akxyverse/ai-automation) | 🤖 Generative & Agentic AI, LangChain, n8n, and automation work |
 
+## 🧩 Folders
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 Fundamentals of Data Analytics
+
+Mathematics, Statistics, and Probability — the theoretical foundation everything else in this repository is built on. Deliberately scoped to **theory only**, no tools.
+
+**Inside:** Linear Algebra · Calculus · Discrete Mathematics · Descriptive Statistics · Inferential Statistics · Probability
+
+📂 [Open folder](<./Fundamentals of Data Analytics>) &nbsp;·&nbsp; 📄 [Folder guide](<./Fundamentals of Data Analytics/README.md>)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Data Analytics Technologies
+
+Every core tool and technology used in day-to-day analytics work — one home per topic, grouped by category.
+
+**Inside:** Python · SQL & Databases · Excel · Power BI · Tableau · Looker Studio · APIs · Git/GitHub
+
+📂 [Open folder](<./Data Analytics Technologies>) &nbsp;·&nbsp; 📄 [Folder guide](<./Data Analytics Technologies/README.md>)
+
+</td>
+</tr>
+</table>
+
 ## 🗂 Repository Structure
 
 <details>
@@ -91,7 +123,7 @@ This is one of 8 repositories that make up my public Data Analytics presence on 
 ```
 data-analytics-knowledge-system
 │
-├── 02_Fundamentals
+├── Fundamentals of Data Analytics
 │   ├── Mathematics
 │   │   ├── Linear Algebra
 │   │   ├── Calculus
@@ -101,7 +133,7 @@ data-analytics-knowledge-system
 │   │   └── Inferential Statistics
 │   └── Probability
 │
-└── 03_Technologies
+└── Data Analytics Technologies
     ├── Programming
     │   ├── Python
     │   │   ├── Python Fundamentals
@@ -119,17 +151,6 @@ data-analytics-knowledge-system
 
 </details>
 
-> **Numbering note:** folder numbers `02_` and `03_` are preserved from the original 9-category system this repository was split from — `01_Learning`, `04_` through `09_` now live in their own dedicated repositories (see the ecosystem table above).
-
-## 🧩 Folder Navigation
-
-| # | Folder | Purpose |
-|---|--------|---------|
-| 🧮 | [`02_Fundamentals`](./02_Fundamentals) | Mathematics, Statistics, and Probability — the foundation everything else is built on |
-| 🛠️ | [`03_Technologies`](./03_Technologies) | Core Data Analytics tools — programming, databases, visualization, APIs |
-
-Each folder above also contains its own `README.md` with a more detailed breakdown.
-
 ## 🗺 Learning Roadmap
 
 ```mermaid
@@ -137,10 +158,18 @@ flowchart LR
     A["🧮 Fundamentals<br/>Math · Stats · Probability"] --> B["🐍 Programming<br/>Python · SQL"]
     B --> C["🗄️ Data Handling<br/>Databases · Spreadsheets"]
     C --> D["📊 Visualization<br/>Power BI · Tableau"]
-    D --> E["🚀 Projects<br/>data-analytics-projects"]
+    D --> E["🚀 Applied Projects<br/>data-analytics-projects"]
+
+    style A fill:#0f172a,stroke:#38bdf8,color:#f8fafc
+    style B fill:#0f172a,stroke:#38bdf8,color:#f8fafc
+    style C fill:#0f172a,stroke:#22d3ee,color:#f8fafc
+    style D fill:#0f172a,stroke:#22d3ee,color:#f8fafc
+    style E fill:#0f766e,stroke:#5eead4,color:#f8fafc
 ```
 
-<sub>Text equivalent: Fundamentals → Programming → Data Handling → Visualization → Projects (in the dedicated projects repository).</sub>
+<sub>Text equivalent for screen readers / non-rendering viewers: Fundamentals → Programming → Data Handling → Visualization → Applied Projects (in the dedicated projects repository).</sub>
+
+This repository covers the first four stages. The fifth — applying it — happens in [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects).
 
 ## 🧰 Tech Stack & Skills
 
@@ -198,6 +227,16 @@ flowchart LR
 
 > Looking for TensorFlow, PyTorch, Scikit-learn, Cloud, Data Engineering, or Generative/Agentic AI? Those live locally for now (ML/DL) or in [`ai-automation`](https://github.com/akxyverse/ai-automation) — not in this repository, by design.
 
+## 📘 Recommended Guidebooks
+
+Standalone, self-contained guides that go deeper than what's tracked as notes in this repository:
+
+| Guide | What it covers |
+|---|---|
+| 📊 [**Excel Roadmap Guide**](https://github.com/akxyverse/excel-roadmap-guide) | A step-by-step Excel roadmap — 30 skills across 4 levels, from basics to Data Analyst-ready |
+
+> Kept as its own repository rather than folded in here — it's a complete learning product with its own structure and audience, not raw notes.
+
 ## 🟢 Status Legend
 
 | Status | Meaning |
@@ -211,15 +250,22 @@ flowchart LR
 
 | Category | Status |
 |----------|--------|
-| [`02_Fundamentals`](./02_Fundamentals) | ⚪ Not Started |
-| [`03_Technologies`](./03_Technologies) | ⚪ Not Started |
+| [Fundamentals of Data Analytics](<./Fundamentals of Data Analytics>) | ⚪ Not Started |
+| [Data Analytics Technologies](<./Data Analytics Technologies>) | ⚪ Not Started |
 
 ## 📐 Repository Rules & Conventions
 
-- 🔒 **The folder hierarchy is frozen.** No renaming, deleting, or restructuring of the top-level categories or their subfolders.
+- 🔒 **The folder hierarchy is frozen.** No renaming, deleting, or restructuring of the top-level categories or their subfolders beyond what's already been deliberately set.
 - 🎯 **Scope is deliberately narrow.** Only core Data Analytics learning content lives here — projects, resources, career material, and AI/automation work all live in their own repositories.
 - 📁 **One topic, one folder, one repository.** Every technology has exactly one home across the whole ecosystem — no duplicates.
 - 🧹 **No clutter.** Only meaningful content is added under each folder; empty folders are preserved with `.gitkeep` until populated.
+
+## 🚀 What's Next
+
+- 📖 **Studying?** Start with [Fundamentals of Data Analytics](<./Fundamentals of Data Analytics>), then move to [Data Analytics Technologies](<./Data Analytics Technologies>).
+- 🛠️ **Want to see this applied?** Head to [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects) for hands-on work built on these fundamentals.
+- 📊 **Learning Excel specifically?** The [Excel Roadmap Guide](https://github.com/akxyverse/excel-roadmap-guide) is a deeper, structured path.
+- ⭐ **Found this useful?** Star the repo and follow [@akxyverse](https://github.com/akxyverse) for the rest of the ecosystem.
 
 ## 🤝 Contributing
 
