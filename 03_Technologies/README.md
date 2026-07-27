@@ -2,23 +2,22 @@
 
 [← Back to main README](../README.md)
 
-The largest and most active category in this repository — every programming language, library, database, platform, and tool used across the whole learning journey, grouped by category so each technology has exactly one home.
+Every core Data Analytics tool and technology, grouped by category so each has exactly one home. This repository is scoped to **core Data Analytics only** — Cloud, Data Engineering, AI & Automation, and ML/DL libraries live in their own dedicated repositories (see the [ecosystem map](../README.md#-repository-ecosystem)).
 
 ## Contents
 
 | Folder | What lives here |
 |--------|------------------|
-| [`Programming`](./Programming) | Python (fundamentals + libraries) and Web Development (Streamlit, Flask, FastAPI) |
+| [`Programming`](./Programming) | Python (fundamentals + core analytics libraries) and Web Development (Streamlit) |
 | [`Databases`](./Databases) | SQL, MySQL, PostgreSQL, SQL Server, SQLite, MongoDB, Redis |
 | [`Spreadsheets`](./Spreadsheets) | Excel |
 | [`Data Visualization`](./Data%20Visualization) | Power BI, Tableau, Looker Studio, Excel Dashboards |
 | [`Analytics Concepts`](./Analytics%20Concepts) | Data analytics concepts, business analytics, data storytelling |
-| [`Data Engineering`](./Data%20Engineering) | ETL/ELT, warehousing, data lakes, Snowflake, Databricks, Spark, Airflow, dbt |
-| [`Cloud`](./Cloud) | Azure, AWS, Google Cloud |
-| [`AI & Automation`](./AI%20%26%20Automation) | Prompt engineering, Generative & Agentic AI, LangChain, LangGraph, n8n, MCP, RAG, Vector DBs, Hugging Face |
-| [`APIs`](./APIs) | REST, GraphQL, Webhooks, Authentication, AI APIs |
+| [`APIs`](./APIs) | REST APIs, GraphQL, Webhooks, Authentication |
 | [`Version Control`](./Version%20Control) | Git, GitHub |
-| [`Other Tools`](./Other%20Tools) | Catch-all for future tools that don't fit an existing category yet |
+| [`Other Tools`](./Other%20Tools) | Catch-all for future core-analytics tools that don't fit an existing category yet |
+
+> **Not here:** Cloud → not yet published (see [ai-automation](https://github.com/akxyverse/ai-automation) and future repos) · AI & Automation, AI APIs, Flask, FastAPI → [`ai-automation`](https://github.com/akxyverse/ai-automation) · ML/DL libraries (TensorFlow, PyTorch, Scikit-learn, etc.) → local-only for now, published when a dedicated ML/DL repo is created.
 
 ## Status
 
