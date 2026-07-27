@@ -206,37 +206,7 @@ flowchart LR
 
 ## 📘 Recommended Guidebooks
 
-<table>
-<tr>
-<td width="20%" align="center" valign="top">
-
-📊<br>**Excel**<br>[Roadmap Guide →](https://github.com/akxyverse/excel-roadmap-guide)<br><sub>30 skills, 4 levels</sub>
-
-</td>
-<td width="20%" align="center" valign="top">
-
-🗄️<br>**SQL Guide**<br><sub>Coming Soon</sub>
-
-</td>
-<td width="20%" align="center" valign="top">
-
-🐍<br>**Python Guide**<br><sub>Coming Soon</sub>
-
-</td>
-<td width="20%" align="center" valign="top">
-
-📈<br>**Power BI Guide**<br><sub>Coming Soon</sub>
-
-</td>
-<td width="20%" align="center" valign="top">
-
-📉<br>**Tableau Guide**<br><sub>Coming Soon</sub>
-
-</td>
-</tr>
-</table>
-
-> The Excel Roadmap Guide is a standalone, self-contained repository — a complete learning product, not folded into these notes. The rest are planned; this card grid will update as each ships.
+Complete, self-contained learning guides — including the Excel Roadmap Guide — now live in [`Learning Resources → Guidebooks`](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks), so there's one home for them instead of two.
 
 ## 🎯 How to Use This Repository
 
