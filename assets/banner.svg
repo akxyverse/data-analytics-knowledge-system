@@ -13,55 +13,44 @@
       <stop offset="0%" stop-color="#38bdf8"/>
       <stop offset="100%" stop-color="#22d3ee"/>
     </linearGradient>
-    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#0f766e"/>
-      <stop offset="100%" stop-color="#5eead4"/>
+    <linearGradient id="pageGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
   <rect width="1200" height="320" fill="url(#glow)"/>
 
-  <!-- network / node motif, top right -->
-  <g stroke="#38bdf8" stroke-width="1" opacity="0.35">
-    <line x1="880" y1="50" x2="960" y2="30"/>
-    <line x1="960" y1="30" x2="1040" y2="70"/>
-    <line x1="960" y1="30" x2="1000" y2="110"/>
-    <line x1="1040" y1="70" x2="1110" y2="45"/>
-    <line x1="1000" y1="110" x2="1080" y2="130"/>
-  </g>
-  <g fill="#22d3ee" opacity="0.6">
-    <circle cx="880" cy="50" r="4"/>
-    <circle cx="960" cy="30" r="5"/>
-    <circle cx="1040" cy="70" r="4"/>
-    <circle cx="1000" cy="110" r="4"/>
-    <circle cx="1110" cy="45" r="3.5"/>
-    <circle cx="1080" cy="130" r="3.5"/>
-  </g>
-
-  <!-- dot grid texture -->
-  <g fill="#38bdf8" opacity="0.10">
+  <g fill="#38bdf8" opacity="0.08">
     <circle cx="60" cy="40" r="2.2"/><circle cx="100" cy="40" r="2.2"/><circle cx="140" cy="40" r="2.2"/>
     <circle cx="60" cy="70" r="2.2"/><circle cx="100" cy="70" r="2.2"/><circle cx="140" cy="70" r="2.2"/>
   </g>
 
-  <!-- faint code glyph -->
-  <text x="1030" y="270" font-family="Consolas, Menlo, monospace" font-size="64" fill="#38bdf8" opacity="0.10">&lt;/&gt;</text>
-
-  <!-- trend line with markers -->
-  <polyline points="70,240 160,215 250,230 340,180 430,195 520,150 610,165"
-    fill="none" stroke="#5eead4" stroke-width="2.5" opacity="0.55"/>
-  <g fill="#5eead4" opacity="0.75">
-    <circle cx="70" cy="240" r="3"/><circle cx="160" cy="215" r="3"/><circle cx="250" cy="230" r="3"/>
-    <circle cx="340" cy="180" r="3"/><circle cx="430" cy="195" r="3"/><circle cx="520" cy="150" r="3"/><circle cx="610" cy="165" r="3.5"/>
+  <!-- open book, right side, transitioning into a data grid -->
+  <g transform="translate(870,110)">
+    <!-- left page -->
+    <path d="M0,10 Q60,-15 120,10 L120,140 Q60,115 0,140 Z" fill="#0d3b52" stroke="#38bdf8" stroke-width="1.5" opacity="0.9"/>
+    <line x1="16" y1="35" x2="100" y2="22" stroke="#38bdf8" stroke-width="2" opacity="0.5"/>
+    <line x1="16" y1="60" x2="100" y2="50" stroke="#38bdf8" stroke-width="2" opacity="0.5"/>
+    <line x1="16" y1="85" x2="100" y2="78" stroke="#38bdf8" stroke-width="2" opacity="0.5"/>
+    <!-- right page dissolving into bars/grid -->
+    <path d="M120,10 Q180,-15 240,10 L240,140 Q180,115 120,140 Z" fill="#0d3b52" stroke="#22d3ee" stroke-width="1.5" opacity="0.9"/>
+    <rect x="140" y="95" width="10" height="35" rx="2" fill="url(#pageGrad)"/>
+    <rect x="156" y="75" width="10" height="55" rx="2" fill="url(#pageGrad)"/>
+    <rect x="172" y="55" width="10" height="75" rx="2" fill="url(#pageGrad)"/>
+    <rect x="188" y="35" width="10" height="95" rx="2" fill="url(#pageGrad)"/>
+    <!-- spine highlight -->
+    <line x1="120" y1="10" x2="120" y2="140" stroke="#f8fafc" stroke-width="2" opacity="0.6"/>
   </g>
 
-  <!-- mini bar chart -->
-  <g transform="translate(70,150)">
-    <rect x="0"  y="45" width="13" height="45" rx="2" fill="url(#barGrad)"/>
-    <rect x="19" y="25" width="13" height="65" rx="2" fill="url(#barGrad)"/>
-    <rect x="38" y="55" width="13" height="35" rx="2" fill="url(#barGrad)"/>
-    <rect x="57" y="10" width="13" height="80" rx="2" fill="url(#barGrad)"/>
+  <!-- floating data nodes around the book -->
+  <g fill="#5eead4" opacity="0.6">
+    <circle cx="1080" cy="70" r="4"/><circle cx="1130" cy="110" r="3.5"/><circle cx="1100" cy="180" r="4"/>
+  </g>
+  <g stroke="#38bdf8" stroke-width="1" opacity="0.3">
+    <line x1="990" y1="75" x2="1080" y2="70"/>
+    <line x1="990" y1="75" x2="1100" y2="180"/>
   </g>
 
   <text x="150" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f8fafc">
@@ -72,7 +61,7 @@
     Fundamentals &#8226; Python &#8226; SQL &#8226; BI Tools &#8226; Analytics Concepts
   </text>
   <text x="150" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7dd3c8">
-    The core learning track of the Akxyverse Data Analytics ecosystem
+    Where learning becomes structured knowledge
   </text>
 
   <text x="1130" y="295" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#5b7a8e">
