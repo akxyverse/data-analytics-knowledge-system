@@ -1,102 +1,95 @@
 <div align="center">
 
-🏠 [Profile](https://github.com/akxyverse) &bull;
-🧠 **Knowledge System** &bull;
-🚀 [Projects](https://github.com/akxyverse/data-analytics-projects) &bull;
-📦 [Datasets](https://github.com/akxyverse/datasets) &bull;
-📚 [Resources](https://github.com/akxyverse/data-analytics-resources) &bull;
-💼 [Career](https://github.com/akxyverse/career-hub) &bull;
-✍️ [Content](https://github.com/akxyverse/content-studio) &bull;
-🏅 [Certifications](https://github.com/akxyverse/certifications) &bull;
-🤖 [AI Automation](https://github.com/akxyverse/ai-automation)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/logo.svg" alt="Repository logo" width="90">
+<img src="./assets/logo.svg" alt="Data Analytics Knowledge Hub logo" width="92">
 
 <br><br>
 
-<img src="./assets/banner.svg" alt="Data Analytics Knowledge Management System" width="100%">
+<img src="./assets/banner.svg" alt="Data Analytics Knowledge Hub" width="100%">
+
+<br><br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg?style=for-the-badge)](./LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=22d3ee&label=last%20commit)
+![Repo Size](https://img.shields.io/github/repo-size/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=0f766e&label=size)
+![Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=38bdf8)
+
+### The core Data Analytics learning track of the Akxyverse ecosystem.
+### Fundamentals → Programming → Data → BI Tools — structured, curated, always evolving.
+
+</div>
 
 <br>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg)](./LICENSE)
-![Last Commit](https://img.shields.io/github/last-commit/akxyverse/data-analytics-knowledge-system?color=22d3ee&label=last%20commit)
-![Repo Size](https://img.shields.io/github/repo-size/akxyverse/data-analytics-knowledge-system?color=0f766e&label=repo%20size)
-![Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-knowledge-system?style=social)
-![Forks](https://img.shields.io/github/forks/akxyverse/data-analytics-knowledge-system?style=social)
-![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-**Core Data Analytics learning notes — fundamentals, Python, SQL, BI tools, and analytics concepts. One repository, one purpose: learning core Data Analytics, done properly.**
+**🧭 What**
 
-[About](#-about) &bull;
-[Folders](#-folders) &bull;
-[Roadmap](#-learning-roadmap) &bull;
-[Tech Stack](#-tech-stack--skills) &bull;
-[Guidebooks](#-recommended-guidebooks) &bull;
-[Ecosystem](#-repository-ecosystem) &bull;
-[Connect](#-connect-with-me)
+A curated, public record of my core Data Analytics learning — fundamentals through BI tooling.
 
+</td>
+<td width="25%" align="center" valign="top">
+
+**💡 Why**
+
+Skills scattered across notes apps disappear. Structured, versioned, public notes don't.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**👥 Who**
+
+Learners, recruiters, and hiring managers evaluating depth — not just finished projects.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🎁 Value**
+
+A ready-made, freely reusable template for anyone building their own learning system.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🧭 Explore the Ecosystem
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse"><b>🏠</b><br><sub>Profile</sub></a></td>
+<td align="center" width="12.5%"><b>🧠</b><br><sub>Knowledge Hub</sub></td>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse/data-analytics-projects"><b>🚀</b><br><sub>Projects</sub></a></td>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse/datasets"><b>📦</b><br><sub>Datasets</sub></a></td>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse/data-analytics-resources"><b>📚</b><br><sub>Resources</sub></a></td>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse/career-hub"><b>💼</b><br><sub>Career</sub></a></td>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse/content-studio"><b>✍️</b><br><sub>Content</sub></a></td>
+<td align="center" width="12.5%"><a href="https://github.com/akxyverse/certifications"><b>🏅</b><br><sub>Certs</sub></a></td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/akxyverse/ai-automation"><b>🤖 AI Automation</b></a> — the advanced/specialized track, kept separate from core analytics
 </div>
 
 ---
 
-## 📖 Table of Contents
-
-- [About](#-about)
-- [Repository Ecosystem](#-repository-ecosystem)
-- [Folders](#-folders)
-- [Repository Structure](#-repository-structure)
-- [Learning Roadmap](#-learning-roadmap)
-- [Tech Stack & Skills](#-tech-stack--skills)
-- [Recommended Guidebooks](#-recommended-guidebooks)
-- [Status Legend](#-status-legend)
-- [Repository Rules & Conventions](#-repository-rules--conventions)
-- [What's Next](#-whats-next)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Connect With Me](#-connect-with-me)
-- [Repository Stats](#-repository-stats)
-
----
-
-## 🧭 About
-
-This repository holds my **core Data Analytics learning notes** — mathematical foundations, statistics, Python, SQL, and BI tools. It's intentionally narrow: this is where I learn the fundamentals, not where I store projects, resources, career material, or AI work — those each have their own dedicated home in the [ecosystem](#-repository-ecosystem) below.
-
-My local knowledge system is private; this repository is a **curated, public subset** of it, scoped specifically to core Data Analytics skills.
-
-## 🗺 Repository Ecosystem
-
-This is one of 8 repositories that make up my public Data Analytics presence on GitHub. Each has a single, clear purpose:
-
-| Repository | Purpose |
-|---|---|
-| [`akxyverse`](https://github.com/akxyverse) | 👋 Profile hub — start here |
-| **`data-analytics-knowledge-system`** | 🧠 **You are here** — core DA learning: fundamentals, Python, SQL, BI tools |
-| [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects) | 🚀 Every hands-on project — tool-wise, domain-wise, end-to-end |
-| [`datasets`](https://github.com/akxyverse/datasets) | 📦 Datasets used across projects, organized by source |
-| [`data-analytics-resources`](https://github.com/akxyverse/data-analytics-resources) | 📚 Books, docs, papers, courses, cheat sheets |
-| [`career-hub`](https://github.com/akxyverse/career-hub) | 💼 Resume, interview prep, applications, career planning |
-| [`content-studio`](https://github.com/akxyverse/content-studio) | ✍️ LinkedIn posts, articles, tutorials, content assets |
-| [`certifications`](https://github.com/akxyverse/certifications) | 🏅 Certifications in progress, completed, and certificates |
-| [`ai-automation`](https://github.com/akxyverse/ai-automation) | 🤖 Generative & Agentic AI, LangChain, n8n, and automation work |
-
-## 🧩 Folders
+## 🗂 The Learning Track
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧮 Fundamentals of Data Analytics
+The theoretical foundation — no tools, just the math and stats that make everything else make sense.
 
-Mathematics, Statistics, and Probability — the theoretical foundation everything else in this repository is built on. Deliberately scoped to **theory only**, no tools.
+**Technologies:** Linear Algebra · Calculus · Discrete Math · Descriptive & Inferential Statistics · Probability
 
-**Inside:** Linear Algebra · Calculus · Discrete Mathematics · Descriptive Statistics · Inferential Statistics · Probability
+**Learning outcome:** Reason confidently about distributions, variance, and inference before ever touching a dataset.
 
 📂 [Open folder](<./Fundamentals of Data Analytics>) &nbsp;·&nbsp; 📄 [Folder guide](<./Fundamentals of Data Analytics/README.md>)
 
@@ -104,10 +97,11 @@ Mathematics, Statistics, and Probability — the theoretical foundation everythi
 <td width="50%" valign="top">
 
 ### 🛠️ Data Analytics Technologies
+Every core tool used in day-to-day analytics — one home per topic, grouped by category.
 
-Every core tool and technology used in day-to-day analytics work — one home per topic, grouped by category.
+**Technologies:** Python · SQL & Databases · Excel · Power BI · Tableau · Looker Studio · APIs · Git/GitHub
 
-**Inside:** Python · SQL & Databases · Excel · Power BI · Tableau · Looker Studio · APIs · Git/GitHub
+**Learning outcome:** Move from raw data to a cleaned, queried, visualized, version-controlled analysis.
 
 📂 [Open folder](<./Data Analytics Technologies>) &nbsp;·&nbsp; 📄 [Folder guide](<./Data Analytics Technologies/README.md>)
 
@@ -115,30 +109,21 @@ Every core tool and technology used in day-to-day analytics work — one home pe
 </tr>
 </table>
 
-## 🗂 Repository Structure
-
 <details>
-<summary><strong>Click to expand the full folder tree</strong></summary>
+<summary><strong>📁 Full folder tree</strong></summary>
 
 ```
 data-analytics-knowledge-system
 │
 ├── Fundamentals of Data Analytics
-│   ├── Mathematics
-│   │   ├── Linear Algebra
-│   │   ├── Calculus
-│   │   └── Discrete Mathematics
-│   ├── Statistics
-│   │   ├── Descriptive Statistics
-│   │   └── Inferential Statistics
+│   ├── Mathematics (Linear Algebra, Calculus, Discrete Mathematics)
+│   ├── Statistics (Descriptive Statistics, Inferential Statistics)
 │   └── Probability
 │
 └── Data Analytics Technologies
     ├── Programming
-    │   ├── Python
-    │   │   ├── Python Fundamentals
-    │   │   └── Python Libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly,
-    │   │       Polars, SciPy, Statsmodels, Requests, Others)
+    │   ├── Python (Python Fundamentals, Python Libraries: NumPy, Pandas,
+    │   │   Matplotlib, Seaborn, Plotly, Polars, SciPy, Statsmodels, Requests, Others)
     │   └── Web Development (Streamlit)
     ├── Databases (SQL, MySQL, PostgreSQL, SQL Server, SQLite, MongoDB, Redis)
     ├── Spreadsheets (Excel)
@@ -153,6 +138,12 @@ data-analytics-knowledge-system
 
 ## 🗺 Learning Roadmap
 
+<div align="center">
+
+`1` **Fundamentals** → `2` **Programming** → `3` **Data Handling** → `4` **Visualization** → `5` 🚀 **Applied Projects**
+
+</div>
+
 ```mermaid
 flowchart LR
     A["🧮 Fundamentals<br/>Math · Stats · Probability"] --> B["🐍 Programming<br/>Python · SQL"]
@@ -160,138 +151,114 @@ flowchart LR
     C --> D["📊 Visualization<br/>Power BI · Tableau"]
     D --> E["🚀 Applied Projects<br/>data-analytics-projects"]
 
-    style A fill:#0f172a,stroke:#38bdf8,color:#f8fafc
-    style B fill:#0f172a,stroke:#38bdf8,color:#f8fafc
-    style C fill:#0f172a,stroke:#22d3ee,color:#f8fafc
-    style D fill:#0f172a,stroke:#22d3ee,color:#f8fafc
-    style E fill:#0f766e,stroke:#5eead4,color:#f8fafc
+    style A fill:#0a1122,stroke:#38bdf8,color:#f8fafc
+    style B fill:#0a1122,stroke:#38bdf8,color:#f8fafc
+    style C fill:#0a1122,stroke:#22d3ee,color:#f8fafc
+    style D fill:#0a1122,stroke:#22d3ee,color:#f8fafc
+    style E fill:#0f4c4a,stroke:#5eead4,color:#f8fafc
 ```
 
-<sub>Text equivalent for screen readers / non-rendering viewers: Fundamentals → Programming → Data Handling → Visualization → Applied Projects (in the dedicated projects repository).</sub>
+<sub>Text equivalent for screen readers: Fundamentals → Programming → Data Handling → Visualization → Applied Projects (in the dedicated projects repository).</sub>
 
-This repository covers the first four stages. The fifth — applying it — happens in [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects).
+## 🧰 Tech Stack
 
-## 🧰 Tech Stack & Skills
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-<summary><strong>Programming & Web</strong></summary>
-<br>
+**Programming & Web**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</details>
+**Core Data Libraries**
 
-<details open>
-<summary><strong>Core Data Libraries</strong></summary>
-<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-</details>
+**Databases**
 
-<details open>
-<summary><strong>Databases</strong></summary>
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Visualization & Tools**
 
-</details>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<details open>
-<summary><strong>Data Visualization</strong></summary>
-<br>
+</td>
+</tr>
+</table>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</details>
-
-<details open>
-<summary><strong>Version Control</strong></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
-
-> Looking for TensorFlow, PyTorch, Scikit-learn, Cloud, Data Engineering, or Generative/Agentic AI? Those live locally for now (ML/DL) or in [`ai-automation`](https://github.com/akxyverse/ai-automation) — not in this repository, by design.
+> Looking for TensorFlow, PyTorch, Scikit-learn, Cloud, or Generative/Agentic AI? Those live in [`ai-automation`](https://github.com/akxyverse/ai-automation) or locally for now (ML/DL) — not here, by design.
 
 ## 📘 Recommended Guidebooks
 
-Standalone, self-contained guides that go deeper than what's tracked as notes in this repository:
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
 
-| Guide | What it covers |
-|---|---|
-| 📊 [**Excel Roadmap Guide**](https://github.com/akxyverse/excel-roadmap-guide) | A step-by-step Excel roadmap — 30 skills across 4 levels, from basics to Data Analyst-ready |
+📊<br>**Excel**<br>[Roadmap Guide →](https://github.com/akxyverse/excel-roadmap-guide)<br><sub>30 skills, 4 levels</sub>
 
-> Kept as its own repository rather than folded in here — it's a complete learning product with its own structure and audience, not raw notes.
+</td>
+<td width="20%" align="center" valign="top">
 
-## 🟢 Status Legend
+🗄️<br>**SQL Guide**<br><sub>Coming Soon</sub>
 
-| Status | Meaning |
-|--------|---------|
-| 🟢 Active | Currently being worked on |
-| 🟡 Planned | Scoped and queued, not started yet |
-| ⚪ Not Started | Structure exists, content coming soon |
-| ✅ Complete | Finished and reviewed |
+</td>
+<td width="20%" align="center" valign="top">
 
-### Progress Tracker
+🐍<br>**Python Guide**<br><sub>Coming Soon</sub>
+
+</td>
+<td width="20%" align="center" valign="top">
+
+📈<br>**Power BI Guide**<br><sub>Coming Soon</sub>
+
+</td>
+<td width="20%" align="center" valign="top">
+
+📉<br>**Tableau Guide**<br><sub>Coming Soon</sub>
+
+</td>
+</tr>
+</table>
+
+> The Excel Roadmap Guide is a standalone, self-contained repository — a complete learning product, not folded into these notes. The rest are planned; this card grid will update as each ships.
+
+## 🎯 How to Use This Repository
+
+1. **Start with fundamentals** — [Fundamentals of Data Analytics](<./Fundamentals of Data Analytics>) if you're building from zero.
+2. **Move to tools** — [Data Analytics Technologies](<./Data Analytics Technologies>) once the theory is solid.
+3. **Go apply it** — real, hands-on work lives in [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects), not here.
+
+## 🟢 Status
 
 | Category | Status |
 |----------|--------|
-| [Fundamentals of Data Analytics](<./Fundamentals of Data Analytics>) | ⚪ Not Started |
-| [Data Analytics Technologies](<./Data Analytics Technologies>) | ⚪ Not Started |
+| Fundamentals of Data Analytics | ⚪ Not Started |
+| Data Analytics Technologies | ⚪ Not Started |
 
-## 📐 Repository Rules & Conventions
+🟢 Active · 🟡 Planned · ⚪ Not Started · ✅ Complete
 
-- 🔒 **The folder hierarchy is frozen.** No renaming, deleting, or restructuring of the top-level categories or their subfolders beyond what's already been deliberately set.
-- 🎯 **Scope is deliberately narrow.** Only core Data Analytics learning content lives here — projects, resources, career material, and AI/automation work all live in their own repositories.
-- 📁 **One topic, one folder, one repository.** Every technology has exactly one home across the whole ecosystem — no duplicates.
-- 🧹 **No clutter.** Only meaningful content is added under each folder; empty folders are preserved with `.gitkeep` until populated.
-
-## 🚀 What's Next
-
-- 📖 **Studying?** Start with [Fundamentals of Data Analytics](<./Fundamentals of Data Analytics>), then move to [Data Analytics Technologies](<./Data Analytics Technologies>).
-- 🛠️ **Want to see this applied?** Head to [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects) for hands-on work built on these fundamentals.
-- 📊 **Learning Excel specifically?** The [Excel Roadmap Guide](https://github.com/akxyverse/excel-roadmap-guide) is a deeper, structured path.
-- ⭐ **Found this useful?** Star the repo and follow [@akxyverse](https://github.com/akxyverse) for the rest of the ecosystem.
-
-## 🤝 Contributing
-
-This is a **personal learning repository** — not open for feature pull requests. Found a broken link or typo? Open an [issue](../../issues). Suggestions are welcome.
-
-## 📄 License
-
-Licensed under the **MIT License** — see [`LICENSE`](./LICENSE). Free to use this structure as a template for your own learning system.
-
-## 📬 Connect With Me
+## ➡️ Recommended Next Repository
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
-## 📊 Repository Stats
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=38bdf8&label=Stars)
-![Forks](https://img.shields.io/github/forks/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=22d3ee&label=Forks)
-![Repo Size](https://img.shields.io/github/repo-size/akxyverse/data-analytics-knowledge-system?style=for-the-badge&color=0f766e&label=Size)
+### 🚀 [Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)
+**Fundamentals mean nothing until they're applied.** This is where the theory here becomes real, hands-on work.
 
 </div>
 
@@ -299,8 +266,12 @@ Licensed under the **MIT License** — see [`LICENSE`](./LICENSE). Free to use t
 
 <div align="center">
 
-**⭐ If this structure is useful to you, consider starring the repo.**
+[![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<sub>Built and maintained by <a href="https://github.com/akxyverse">@akxyverse</a> — part of the <a href="https://github.com/akxyverse">akxyverse Data Analytics ecosystem</a>.</sub>
+**⭐ Star this repo if the structure is useful to you.**
+
+<sub>Part of the <a href="https://github.com/akxyverse"><b>Akxyverse</b></a> Data Analytics ecosystem · MIT Licensed · <a href="./LICENSE">LICENSE</a></sub>
 
 </div>
