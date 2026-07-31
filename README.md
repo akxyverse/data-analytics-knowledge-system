@@ -212,7 +212,7 @@ flowchart LR
 
 ## 📘 Recommended Guidebooks
 
-Complete, self-contained learning guides — including the Excel Roadmap Guide — now live in [`Learning Resources → Guidebooks`](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks), so there's one home for them instead of two.
+Complete, self-contained learning guides — including the Excel Roadmap Guide — now live in [`Learning Resources → Excel`](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks), so there's one home for them instead of two.
 
 ## 🎯 How to Use This Repository
 
@@ -225,7 +225,7 @@ Complete, self-contained learning guides — including the Excel Roadmap Guide �
 | Category | Status |
 |----------|--------|
 | Fundamentals of Data Analytics | ⚪ Not Started |
-| Data Analytics Technologies | ⚪ Not Started |
+| Data Analytics Technologies | 🟢 Active — Excel notes on file |
 
 🟢 Active · 🟡 Planned · ⚪ Not Started · ✅ Complete
 
