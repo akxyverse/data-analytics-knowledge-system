@@ -2,15 +2,15 @@
 
 [← Back to Data Analytics Technologies](../../README.md)
 
-Personal Excel notes — a working notebook covering formulas, functions, data cleaning, and analysis, built up while learning the tool for real analytics work.
+Excel notes and practice, built up while learning the tool for real analytics work.
 
-## 📘 My Excel Notebook
+## 📘 Notebook
 
-[**My-Excel-Notebook.pdf**](./My-Excel-Notebook.pdf)
+The point-wise Excel notebook that used to live here is now maintained as part of the Excel Guidebooks collection in Learning Resources — one canonical copy instead of two.
 
-A personal, point-wise Excel notebook — practical notes rather than a polished course, built as a working reference while learning. Covers core formulas and functions, data cleaning and management, and analytical techniques used in day-to-day spreadsheet work.
+➡ **Canonical Resource:** [data-analytics-resources → Excel → Guidebooks → Excel Syllabus Notebook](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Syllabus%20Notebook)
 
-> This is distinct from the [Excel Roadmap Guide](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Roadmap%20Guide) in `Learning Resources` — that's a structured, standalone learning product; this is a personal notes archive, which is why it lives here in the Knowledge Hub alongside other technology notes.
+This page is intentionally kept as a reference rather than a second copy, so there's one source of truth to maintain.
 
 ## 🎯 Learning Objectives
 
@@ -22,4 +22,6 @@ A personal, point-wise Excel notebook — practical notes rather than a polished
 ## ➡️ Related
 
 - 📊 [Data Visualization → Excel Dashboards](<../Data Visualization/Excel Dashboards>)
-- 📘 [Excel Roadmap Guide (standalone, structured guide)](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Roadmap%20Guide)
+- 🟢 [Excel Syllabus Notebook (canonical notebook)](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Syllabus%20Notebook)
+- 📈 [Excel Roadmap Guide (curriculum + external resources)](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Roadmap%20Guide)
+- 🔷 [Excel Ultimate Guidebook (broader quick-reference)](https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Ultimate%20Guidebook)
